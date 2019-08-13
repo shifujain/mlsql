@@ -1,0 +1,14 @@
+quesArr = [
+   "Sum total sales for country Columbia",
+   "average profit for region Canada",
+   "number of orders placed on 06-01-2011 for region Africa",
+   "sum total of sales in furniture category and chairs sub category",
+   "how many orders were placed by customer Eugene Moren",
+   "what is sum of shipping cost paid for furniture",
+   "Sum total profit earned in 2011 for shipments to Zimbabwe",
+   "how many orders were made for subcategory pencils in 2014",
+   "sum total sales of furniture category in the state of Karnataka in India in 2014",
+   "Sum total sales in the state of California in United States",
+   "Sum total profit earned in 2015 for shipments to Newark",
+   "number of orders shipped to Seattle on 18-07-2011 through ship mode Standard Class"
+]

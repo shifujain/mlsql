@@ -1,0 +1,87 @@
+schemaArr = [
+   {
+      "Column_Names":"Row ID",
+      "Data Type":"int",
+      "data_examples":"1, 200"
+   },
+   {
+      "Column_Names":"Order ID",
+      "Data Type":"str",
+      "data_examples":"CA-2011-131310, CA-2014-140112"
+   },
+   {
+      "Column_Names":"Order Date",
+      "Data Type":"date",
+      "data_examples":"12-07-2011, 12-01-2014"
+   },
+   {
+      "Column_Names":"Year",
+      "Data Type":"date",
+      "data_examples":"2011, 2014"
+   },
+   {
+      "Column_Names":"Ship Date",
+      "Data Type":"date",
+      "data_examples":"18-07-2011, 14-01-2014"
+   },
+   {
+      "Column_Names":"Ship Mode",
+      "Data Type":"str",
+      "data_examples":"Standard Class, Standard Class"
+   },
+   {
+      "Column_Names":"Customer ID",
+      "Data Type":"str",
+      "data_examples":"CL-12565, CL-17593"
+   },
+   {
+      "Column_Names":"Customer Name",
+      "Data Type":"str",
+      "data_examples":"Clay Ludtke, Eugene Moren"
+   },
+   {
+      "Column_Names":"City",
+      "Data Type":"str",
+      "data_examples":"Seattle, Newark"
+   },
+   {
+      "Column_Names":"State",
+      "Data Type":"str",
+      "data_examples":"Washington, NJ"
+   },
+   {
+      "Column_Names":"Country",
+      "Data Type":"str",
+      "data_examples":"United States, United States"
+   },
+   {
+      "Column_Names":"Region",
+      "Data Type":"str",
+      "data_examples":"West, East"
+   },
+   {
+      "Column_Names":"Category",
+      "Data Type":"str",
+      "data_examples":"Furniture, Stationary"
+   },
+   {
+      "Column_Names":"Sub-Category",
+      "Data Type":"str",
+      "data_examples":"Chairs, Pencils"
+   },
+   {
+      "Column_Names":"Sales",
+      "Data Type":"float",
+      "data_examples":"123.136, 50.65"
+   },
+   {
+      "Column_Names":"Profit",
+      "Data Type":"float",
+      "data_examples":"13.8528, 5.01"
+   },
+   {
+      "Column_Names":"Shipping Cost",
+      "Data Type":"float",
+      "data_examples":"6.43, 2.43"
+   }
+]
